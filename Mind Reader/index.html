@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mind Reading Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🧠 Mind Reader 3000</h1>
+    <p>Think of a number... but also type it below 😏</p>
+
+    <input type="number" id="userNumber" placeholder="Enter a number..." />
+    <button onclick="startMindReading()">Read My Mind</button>
+
+    <div class="loading" id="loadingBox">
+      <div class="loader-bar">
+        <div class="bar-fill" id="barFill"></div>
+      </div>
+      <p id="loadingText">Preparing mind scanner...</p>
+    </div>
+
+    <div class="result" id="resultBox"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

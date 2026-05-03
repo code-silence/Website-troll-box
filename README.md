@@ -2,7 +2,7 @@
 
 Welcome to the **Website Troll Box** – a growing collection of harmless, hilarious, and mildly annoying web-based pranks built with HTML, CSS, and JavaScript.
 
-Whether you're trying to troll your friends, make someone laugh, or just have fun with web dev, this repo is your one-stop prank shop.
+Whether you're trying to troll your friends, make someone laugh, or just have fun with web dev, this repo is your one-stop prank shop. This is absolutely for fun .
 
 ---
 

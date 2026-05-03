@@ -12,6 +12,8 @@ Whether you're trying to troll your friends, make someone laugh, or just have fu
   Looks like a serious student login form... until you hit "Log In" and get Rickrolled!  
   Bonus: the buttons run away if you haven’t filled in the form!
 
+- A mind reader troll website included.
+
 - 🔁 *(More pranks coming soon!)*  
   Want fake virus alerts? Endless loading spinners? Fake "You’ve been hacked" popups?  
   Stay tuned. This box is just getting started.

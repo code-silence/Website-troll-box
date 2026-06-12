@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    background: #121212;
+    color: white;
+    text-align: center;
+    touch-action: manipulation;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+#message {
+    font-size: 22px;
+    margin-top: 20px;
+    min-height: 30px;
+}
+
+#misses {
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.rage-container {
+    width: 300px;
+    height: 25px;
+    background: #333;
+    border-radius: 20px;
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+#rageBar {
+    width: 0%;
+    height: 100%;
+    background: crimson;
+    transition: width 0.3s ease;
+}
+
+#trollBtn {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    padding: 15px 30px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    background: #00d4ff;
+    color: black;
+    -webkit-tap-highlight-color: transparent;
+    transition:
+        left 0.2s ease,
+        top 0.2s ease,
+        transform 0.2s ease;
+}
+
+#trollBtn:hover {
+    box-shadow: 0 0 20px #00d4ff;
+}

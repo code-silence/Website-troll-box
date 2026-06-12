@@ -13,8 +13,8 @@ Whether you're trying to troll your friends, make someone laugh, or just have fu
   Bonus: the buttons run away if you haven’t filled in the form!
 
 - A mind reader troll website included.
-- **A button**
-   but can you click it ? What happens if you click?
+- **A button**\
+  but can you click it ? What happens if you click?
 - 🔁 *(More pranks coming soon!)*  
   Want fake virus alerts? Endless loading spinners? Fake "You’ve been hacked" popups?  
   Stay tuned. This box is just getting started.

@@ -15,6 +15,8 @@ Whether you're trying to troll your friends, make someone laugh, or just have fu
 - A mind reader troll website included.
 - **A button**\
   but can you click it ? What happens if you click?
+-**An infnite loading system?**\
+  awww hell naoow
 - 🔁 *(More pranks coming soon!)*  
   Want fake virus alerts? Endless loading spinners? Fake "You’ve been hacked" popups?  
   Stay tuned. This box is just getting started.
